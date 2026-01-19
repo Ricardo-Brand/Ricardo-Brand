@@ -8,8 +8,7 @@
 
 ## 🚀 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento **backend**.  
-Tenho experiência prática no desenvolvimento de **APIs REST**, web servers em **C**, integração entre sistemas e automação com **Python**.  
-Busco oportunidade como **Desenvolvedor Backend Jr ou Estagiário**, com foco em aprendizado contínuo e evolução técnica.
+Tenho experiência prática no desenvolvimento de **APIs REST**, web servers em **C**, integração entre sistemas e automação com **Python**.
 
 ---
 
